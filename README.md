@@ -1,5 +1,5 @@
 # cuddly-potato
-Again, this is just a demo!
+Again, this is just a demo!  
 Sample text
 ## Contents
 * Section 1
