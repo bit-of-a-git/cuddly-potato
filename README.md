@@ -9,8 +9,9 @@ Sample text
 Another line  
 Yet another  
 And another  
-![Image!](https://www.abouther.com/sites/default/files/2021/08/17/bespoke_artisanal_candles_2.jpg)
+![Image!]((https://www.abouther.com/sites/default/files/2021/08/17/bespoke_ar)
 ![Video!](https://www.youtube.com/watch?v=xT-86RAvZp4)
 ## Section 2
 Lorem ipsum,  
 dolor sic amet
+```this is a snippet```
