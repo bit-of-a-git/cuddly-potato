@@ -15,3 +15,8 @@ And another
 Lorem ipsum,  
 dolor sic amet
 ```this is a snippet```
+
+```python
+def greet)name:
+	return f"Hello, {name]"
+```
