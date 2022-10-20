@@ -13,10 +13,12 @@ And another
 ![Video!](https://www.youtube.com/watch?v=xT-86RAvZp4)
 ## Section 2
 Lorem ipsum,  
-dolor sic amet
+dolor sic amet  
 ```this is a snippet```
 
 ```python
 def greet)name:
 	return f"Hello, {name]"
 ```
+field1 | field2 | field 3
+val1 | val2| val3|
