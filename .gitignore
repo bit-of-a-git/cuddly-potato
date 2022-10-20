@@ -1,2 +1,4 @@
 *.txt
 secret_*
+
+!requirements.txt
